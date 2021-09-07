@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izbari&label=Profile%20views&color=0e75b6&style=flat" alt="izbari" /> </p>
 
-- 🔭 I’m currently working on [codeHouse](https://github.com/izbari/codeHouse)
+- 🔭 I’m currently working on [Bookstagram](https://github.com/izbari/Bookstagram)
 
 - 🌱 I’m currently learning **Node.js**
 
