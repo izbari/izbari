@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zafer Barış</h1>
-<h3 align="center">Mobil Application and Backend developer from Turkey</h3>
+<h3 align="center">Mobil and Web developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izbari&label=Profile%20views&color=0e75b6&style=flat" alt="izbari" /> </p>
 
 - 🔭 I’m currently working on [Bookstagram](https://github.com/izbari/Bookstagram)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/izbari?tab=repositories](https://github.com/izbari?tab=repositories)
 
